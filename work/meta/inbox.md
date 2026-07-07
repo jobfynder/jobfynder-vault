@@ -21,3 +21,4 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 - [done] Scraper workflow: jobs.nvoids.com — moved to research/job-portals-hotlist-research.md
 - [done] Compile job portal lists + hotlist sites — moved to research/job-portals-hotlist-research.md
 - [done] Hiring option + LinkedIn pain points — moved to research/linkedin-pain-points.md
+- [done] Recruiter hiring module — moved to product/recruiter-hiring-module.md

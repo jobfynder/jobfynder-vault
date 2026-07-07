@@ -16,4 +16,8 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 - [link] Brand OS Blueprint 5-day breakdown: https://brandmasteracademy.com/brand-os-blueprint/
 - [link] BMA All Access curriculum: https://brandmasteracademy.com/bma-all-access/
 - [idea] Implement Stephen Houraghan's Brand OS structure fully — research what needs to be analysed and executed for each of the 12 pillars to make them actionable for Jobfynder
-- [idea] Scraper workflow: scan jobs.nvoids.com → scrape jobs + recruiter contacts → auto-email recruiters to cross-check and post drafts on Jobfynder. Onboarding flow via Telegram, Slack as well.
+
+### 2026-07-07 — Promoted to Research
+- [done] Scraper workflow: jobs.nvoids.com — moved to research/job-portals-hotlist-research.md
+- [done] Compile job portal lists + hotlist sites — moved to research/job-portals-hotlist-research.md
+- [done] Hiring option + LinkedIn pain points — moved to research/linkedin-pain-points.md

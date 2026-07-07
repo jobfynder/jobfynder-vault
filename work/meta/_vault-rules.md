@@ -22,6 +22,7 @@ Every file starts with `# Title`. That's the only formatting rule.
 | `clients/` | Partner notes (if applicable) |
 | `meta/` | This file — vault conventions |
 | `templates/` | Starting points for new notes |
+| `meta/inbox.md` | Quick capture — ideas, links, rough thoughts to review later |
 
 ## Golden Rule
 Write notes so a human can read them in 30 seconds and know exactly what matters.

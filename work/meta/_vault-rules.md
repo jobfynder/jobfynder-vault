@@ -16,7 +16,8 @@ Every file starts with `# Title`. That's the only formatting rule.
 | Folder | Content |
 |--------|---------|
 | `research/` | Market intel, competitor analysis, industry trends |
-| `marketing/` | Content drafts, campaigns, strategy docs |
+| `marketing/` | Campaigns, content, strategy docs |
+| `marketing/brand-os/` | 12-pillar Brand OS framework (00-index + 01-12 numbered pillars) |
 | `product/` | Feature decisions, roadmap thinking |
 | `daily/` | Day logs with what was done and decided |
 | `clients/` | Partner notes (if applicable) |

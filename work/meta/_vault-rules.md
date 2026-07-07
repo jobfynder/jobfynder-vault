@@ -27,3 +27,11 @@ Every file starts with `# Title`. That's the only formatting rule.
 ## Golden Rule
 Write notes so a human can read them in 30 seconds and know exactly what matters.
 Short paragraphs, bold for key points, no fluff.
+
+## Sync Check
+Run `bash /root/.hermes-admin/ops-log/vault-status.sh` anytime to verify all files
+are pushed to GitHub.
+
+On mobile (Working Copy): Open app → tap repo → Pull. That's it.
+If you see 12 files on GitHub but fewer on mobile → Pull again. Working Copy needs
+a manual pull each time.

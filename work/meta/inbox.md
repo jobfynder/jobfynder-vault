@@ -11,8 +11,7 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 
 ## Inbox
 
-### YYYY-MM-DD
-- [idea/link] Short description
-
-### YYYY-MM-DD
-- [idea/link] Short description
+### 2026-07-07
+- [idea] Use Brand Master Academy Branding OS as Jobfynder's core marketing framework — structured system with 6 levels (A1-C2) for brand strategy, positioning, messaging, workshops, and consulting
+- [link] Brand OS Blueprint 5-day breakdown: https://brandmasteracademy.com/brand-os-blueprint/
+- [link] BMA All Access curriculum: https://brandmasteracademy.com/bma-all-access/

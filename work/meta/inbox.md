@@ -25,3 +25,4 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 
 ### 2026-07-08
 - [idea] Team to collect active companies from nvoids.com and techotlist.com → consolidate staffing market companies. Once substantial, use ai-ark.com to save and upload into Jobfynder employer profiles. Then target those companies and prefill recruiters, BSRs, and consultants.
+- [idea] Evaluate Google Gemma as primary chat model for all recruiter channels. Verify self-hosting cost vs managed hosting (DeepInfra, HuggingFace). Compare against current Gemini Flash setup.

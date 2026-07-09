@@ -26,3 +26,12 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 ### 2026-07-08
 - [idea] Team to collect active companies from nvoids.com and techotlist.com → consolidate staffing market companies. Once substantial, use ai-ark.com to save and upload into Jobfynder employer profiles. Then target those companies and prefill recruiters, BSRs, and consultants.
 - [idea] Evaluate Google Gemma as primary chat model for all recruiter channels. Verify self-hosting cost vs managed hosting (DeepInfra, HuggingFace). Compare against current Gemini Flash setup.
+
+### 2026-07-09
+- [idea] Collect list of best blogs for career and professional recruiting sites
+- [idea] Finalize blog structure for Jobfynder blog based on top industry sites
+- [idea] Configure Chatwoot — https://chat.jobfynder.com
+- [idea] Install and configure Centrifugo — integrate with chat UI
+- [idea] Integrate Chatwoot with Twenty
+- [idea] Install Docuseal and Cal.com
+- [idea] Integrate Claude Code for Marketing Automation and Ghost

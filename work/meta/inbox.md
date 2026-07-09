@@ -28,7 +28,7 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 - [idea] Evaluate Google Gemma as primary chat model for all recruiter channels. Verify self-hosting cost vs managed hosting (DeepInfra, HuggingFace). Compare against current Gemini Flash setup.
 
 ### 2026-07-09
-- [idea] Collect list of best blogs for career and professional recruiting sites
+- [done] Collect list of best blogs for career and professional recruiting sites — moved to research/top-recruiting-blogs.md
 - [idea] Finalize blog structure for Jobfynder blog based on top industry sites
 - [idea] Configure Chatwoot — https://chat.jobfynder.com
 - [idea] Install and configure Centrifugo — integrate with chat UI

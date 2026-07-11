@@ -35,3 +35,5 @@ When you come across something interesting (idea, YouTube video, blog, article, 
 - [idea] Integrate Chatwoot with Twenty
 - [idea] Install Docuseal and Cal.com
 - [idea] Integrate Claude Code for Marketing Automation and Ghost
+- [idea] Hermes sourcing agent for Monster and LinkedIn — scrape requirements automatically
+- [idea] Consultants can chat and send requests for job support or any need to Jobfynder — auto-added as a lead based on intent
